@@ -21,7 +21,6 @@ This document provides links and information for Apple App Store and Google Play
 - Data sharing policies (we never sell data)
 - Data security measures
 - User rights under GDPR
-- Cookie and tracking policy
 
 ---
 
@@ -30,20 +29,6 @@ This document provides links and information for Apple App Store and Google Play
 - **In-App Location:** Landing Page → Legal → Terms of Service
 - **Last Updated:** January 11, 2026
 - **Language:** Swedish
-
-**Key Points Covered:**
-
-- Service description
-- Account responsibilities
-- Age requirement (18+)
-- Responsible alcohol consumption disclaimer
-- User conduct rules
-- Intellectual property rights
-- Liability limitations
-- Termination policy
-- Governing law (Swedish law)
-
----
 
 ## 🔒 GDPR Compliance
 
@@ -77,8 +62,6 @@ felixutvecklar@gmail.com
 **Response time:** Within 30 days as required by GDPR
 
 ---
-
-## 🗑️ Account Deletion
 
 ## 👤 Data Controller Information
 
