@@ -6,7 +6,6 @@ If you are experiencing issues with the app, please contact us via email:
 
 **When contacting support, please include:**
 - A description of the issue
-- Your device model and OS version
 - Steps to reproduce the problem (if applicable)
 - Screenshots (if helpful)
 

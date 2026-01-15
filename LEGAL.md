@@ -1,103 +1,42 @@
-# Sipit - Legal Documentation & GDPR Compliance
+# Sipit - Privacy Policy
 
 ## Overview
 
-This document provides links and information for Apple App Store and Google Play Store review processes regarding legal compliance, privacy policies, and GDPR requirements.
+Sipit is a beverage tasting app. This document outlines how we handle user data.
 
 ---
 
-## 📋 Legal Documents
+## 📊 Data We Collect
 
-### Privacy Policy (Integritetspolicy)
+- **Account information:** Username and alias (for app functionality)
+- **Tasting data:** Your beverage ratings, answers, history etc.
 
-- **In-App Location:** Profile → Legal → Privacy Policy
-- **Last Updated:** January 11, 2026
-- **Language:** Swedish
-
-**Key Points Covered:**
-
-- Data collection (account info, usage data, device data)
-- How data is used
-- Data sharing policies (we never sell data)
-- Data security measures
-- User rights under GDPR
+We do not sell your data to third parties.
 
 ---
 
-### Terms of Service (Användarvillkor)
+## 👤 Data Controller
 
-- **In-App Location:** Landing Page → Legal → Terms of Service
-- **Last Updated:** January 11, 2026
-- **Language:** Swedish
-
-## 🔒 GDPR Compliance
-
-### User Rights
-
-Users can exercise the following GDPR rights by contacting us:
-
-| Right                         | Description                       | How to Request      |
-| ----------------------------- | --------------------------------- |---------------------|
-| **Right of Access**           | Request a copy of personal data   | Email request       |
-| **Right to Rectification**    | Correct inaccurate personal data  | Email request       |
-| **Right to Erasure**          | Delete account and all data       | Email request       |
-| **Right to Object**           | Object to certain data processing | Email request       |
-| **Right to Data Portability** | Receive data in portable format   | Email request       |
-
-### GDPR Request Submission
-
-**Email for all GDPR requests:**
-
-```
-felixutvecklar@gmail.com
-```
-
-**Required information for requests:**
-
-- Full name / Username & Password (to verify identity)
-- Email associated with account
-- Type of request (access, deletion, rectification, etc.)
-- Any relevant details
-
-**Response time:** Within 30 days as required by GDPR
+**Contact:** felixutvecklar@gmail.com  
+**Country:** Sweden
 
 ---
 
-## 👤 Data Controller Information
+## 🔒 Your Rights
 
-**Data Controller:** Lars Felix Johannes Toppar  
-**Contact Email:** felixutvecklar@gmail.com  
-**Country:** Sweden  
-**Governing Law:** Swedish law & EU GDPR
+If you wish to access, correct, or delete your personal data, please contact us via email.
 
 ---
 
-## 📊 Data Safety
+## 🔞 Age Requirement
 
-### Data Collected
-
-| Data Type       | Collected     | Shared              | Purpose                    |
-|-----------------| ------------- | ------------------- | -------------------------- |
-| Alias           | ✅            | ✅                   | App functionality          |
-| Username        | ✅            | ✅  | App functionality          |
-| Tasting ratings | ✅            | ✅  | Core app functionality     |
-
-### Security Practices
-
-- ✅ Data encrypted in transit (HTTPS)
----
-
-## 🔞 Age Rating Information
-
-- **Minimum Age:** 18 years
-- **Reason:** App involves alcohol-related content (beverage tasting)
+This app is intended for users aged 18 and older due to alcohol-related content.
 
 ---
 
-## 📧 Contact Information
+## 📧 Contact
 
-**Support & Legal Inquiries:**  
-felixutvecklar@gmail.com
+For privacy inquiries: felixutvecklar@gmail.com
 
 **Developer:**  
 Lars Felix Johannes Toppar  
