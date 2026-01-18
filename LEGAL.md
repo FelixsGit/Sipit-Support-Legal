@@ -8,8 +8,8 @@ Sipit is a beverage tasting app. This document outlines how we handle user data.
 
 ## 📊 Data We Collect
 
-- **Account information:** Username and alias (for app functionality)
-- **Tasting data:** Your beverage ratings and notes
+- **Account information:** Username and display name (alias)
+- **Tasting data:** Your beverage ratings, tasting history, and notes
 
 We do not sell your data to third parties.
 
@@ -17,7 +17,12 @@ We do not sell your data to third parties.
 
 ## 📷 Camera Usage
 
-Sipit requests camera access to let you take photos of beverages you want to add to a tasting. The photos are only taken when you choose to capture them and are not stored anywhere.
+Sipit requests camera access for two purposes:
+
+1. **Adding beverages:** To scan wine labels when adding beverages to a tasting
+2. **During tastings:** To scan QR codes that identify which beverage is being served
+
+Your camera images are not saved — the scanned data is only used temporarily to look up products and track tasting progress.
 
 ---
 
@@ -30,7 +35,18 @@ Sipit requests camera access to let you take photos of beverages you want to add
 
 ## 🔒 Your Rights
 
-If you wish to access, correct, or delete your personal data, please contact us via email.
+You can:
+- Access your personal data
+- Correct inaccurate data
+- Delete your account and data (available in the app settings)
+
+For assistance, contact us via email.
+
+---
+
+## 🔐 Security
+
+We use HTTPS for secure communication between the app and our servers.
 
 ---
 
@@ -49,3 +65,5 @@ Lars Felix Johannes Toppar
 Sweden
 
 ---
+
+*Last updated: 18 January 2026*
